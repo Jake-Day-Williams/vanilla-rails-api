@@ -16,6 +16,7 @@ gem 'puma', '~> 3.0'
 
 gem 'active_model_serializers'
 gem 'rack-cors'
+gem 'rack-attack'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
